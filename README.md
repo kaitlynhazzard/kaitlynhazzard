@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kaitlyn and I'm a senior at Barnard College of Columbia University majoring in computer science. I'm interested in machine learning and backend development.
+I'm Kaitlyn and I'm a senior at Barnard College of Columbia University majoring in computer science. I'm interested in AI/ML and backend development.
 
 ## Experience
 - **Oracle Cloud Infrastructure:** SWE Intern, Austin TX, Summer 2023

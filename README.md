@@ -8,6 +8,7 @@ I'm Kaitlyn and I'm a senior at Barnard College of Columbia University majoring 
 - **Randori, an IBM Company:** SWE Intern, Summer 2022
 
 ## Mentorship and Tutoring
+- **Columbia University:** Teaching Assistant: User Interface Design (COMS-W4170), Spring 2024
 - **Columbia Application Development Initiative:** Computer Science Mentor, Fall 2023 - present
 - **Barnard Peer Tutoring:** Advanced Programming, Introduction to Computer Science, and Caculus Tutor, Fall 2021 - present
 - **Matriculate:** College Application Mentor, Fall 2020 - Spring 2023

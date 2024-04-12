@@ -3,7 +3,7 @@
 I'm Kaitlyn and I'm a senior at Barnard College of Columbia University majoring in computer science. I'm interested in AI/ML and backend development.
 
 ## Experience
-- **Amazon:** Incoming SDE Intern, Summer 2024
+- **Amazon Web Services:** Incoming SDE Intern, Summer 2024
 - **Oracle Cloud Infrastructure:** SWE Intern, Austin TX, Summer 2023
 - **Columbia Build Lab:** SWE Intern, New York, January-May 2023
 - **Randori, an IBM Company:** SWE Intern, Summer 2022

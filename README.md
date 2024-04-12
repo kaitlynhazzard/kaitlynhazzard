@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Kaitlyn and I'm a senior at Barnard College of Columbia University majoring in computer science. I'm interested in AI/ML and backend development.
 
